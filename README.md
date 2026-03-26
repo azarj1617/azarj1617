@@ -61,24 +61,10 @@ A full-stack billing and inventory management system designed for small and medi
 ![Item Master Form](image-5.png)
 ![Customer Master Form](image-6.png)
 
-## ⚙️ Setup Instructions
+## 📌 Fatorill – Billing & Inventory System [Project's In GIT]
 
-### Backend
-
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
-```
-
-### Frontend
-
-```bash
-cd frontend
-npm install
-ng serve
-```
-
+- 🔗 Backend API: [fatorill-billing-api](#)
+- 🎨 Frontend UI: [fatorill-billing-ui](#)
 ## 🌟 Future Enhancements
 
 * GST integration
