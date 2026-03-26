@@ -1,16 +1,95 @@
-## Hi there 👋
+👋 Hi, I'm Mohamed Azarudeen 
 
-<!--
-**azarj1617/azarj1617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Angular + Flask)
 
-Here are some ideas to get you started:
+#Project
+# 🧾 Fatorill Billing Application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A full-stack billing and inventory management system designed for small and medium businesses to manage sales, quotations, customers, and stock efficiently.
+
+## 🚀 Features
+
+### 🧾 Billing Management
+
+* Create and manage invoices
+* Auto calculation of totals, taxes, and discounts
+* Printable bill format
+
+### 📄 Quotation Module
+
+* Generate quotations for customers
+* Convert quotations into invoices
+* Track quotation history
+
+### 📦 Item Master
+
+* Add, update, and manage products
+* Maintain item pricing, Simple and Multiple Price 
+
+### 👥 Customer Master
+
+* Store customer details
+
+
+### 📊 Reports & Analytics
+
+* 📈 Sales Report (daily/monthly)
+* 📦 Stock Report (available inventory)
+* Sample reports for business insights
+
+## 🛠️ Tech Stack
+
+* Frontend: Angular
+* Backend: Python (Flask)
+* Database: MySQL
+
+## 🎯 Key Highlights
+
+* Full CRUD operations across modules
+* Structured backend APIs
+* Modular frontend architecture
+* Real-world business use case
+* JWT - Integrated for Authentication
+
+## 📸 Screenshots
+
+![Billing Screen](image.png)
+![Item Master](image-1.png)
+![Customer Master](image-2.png)
+![Stock Report](image-3.png)
+![Sales Report](image-4.png)
+![Item Master Form](image-5.png)
+![Customer Master Form](image-6.png)
+
+## ⚙️ Setup Instructions
+
+### Backend
+
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+ng serve
+```
+
+## 🌟 Future Enhancements
+
+* GST integration
+* Role-based access (Admin/User)
+* Export reports (PDF/Excel)
+
+📫 App Link for Live Test:(Deployed in cPanel Shared Server): https://www.wofaa.in/fatorill
+
+Test User : admin
+Password : Admin@123
+
+📫 Contact:
+- [LinkedIn](https://www.linkedin.com/in/mdazarudeen17/)
+- Email : azare201@gmail.com
